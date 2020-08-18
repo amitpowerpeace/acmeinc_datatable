@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/acmeinc_datatable/static/css/main.d656fa81.chunk.css",
+    "main.js": "/acmeinc_datatable/static/js/main.5986568f.chunk.js",
+    "main.js.map": "/acmeinc_datatable/static/js/main.5986568f.chunk.js.map",
+    "runtime~main.js": "/acmeinc_datatable/static/js/runtime~main.c2625861.js",
+    "runtime~main.js.map": "/acmeinc_datatable/static/js/runtime~main.c2625861.js.map",
+    "static/css/2.71916e70.chunk.css": "/acmeinc_datatable/static/css/2.71916e70.chunk.css",
+    "static/js/2.2847272c.chunk.js": "/acmeinc_datatable/static/js/2.2847272c.chunk.js",
+    "static/js/2.2847272c.chunk.js.map": "/acmeinc_datatable/static/js/2.2847272c.chunk.js.map",
+    "index.html": "/acmeinc_datatable/index.html",
+    "precache-manifest.d69251add6e2626102be91ba127eb403.js": "/acmeinc_datatable/precache-manifest.d69251add6e2626102be91ba127eb403.js",
+    "service-worker.js": "/acmeinc_datatable/service-worker.js",
+    "static/css/2.71916e70.chunk.css.map": "/acmeinc_datatable/static/css/2.71916e70.chunk.css.map",
+    "static/css/main.d656fa81.chunk.css.map": "/acmeinc_datatable/static/css/main.d656fa81.chunk.css.map"
+  }
+}
